@@ -12,7 +12,7 @@
 </div>
 
 # Scientific ML Notes
-This repository contains summaries and implementations of fundamental concepts in Linear Algebra, Scientific Computing, Machine Learning, and Reduced Order Modeling. Each notebook provides essential insights based on various textbooks, serving as a concise reference. For comprehensive understanding, please refer to the referenced books. This is a living repository that grows weekly, and I will upload new notebooks every **Monday**.
+This repository contains summaries and implementations of fundamental concepts in **Linear Algebra, Scientific Computing, Machine Learning, and Reduced Order Modeling**. Each notebook provides essential insights based on various textbooks, serving as a concise reference. For comprehensive understanding, please refer to the referenced books. This is a living repository that grows weekly, and I will upload new notebooks every **Monday**.
 
 ## 📚 Contents
 
