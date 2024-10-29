@@ -4,7 +4,7 @@
 <br><br>
 
 [![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/mhnaderi/Scientific-ML-Notes/blob/main/LICENSE)
-[![GitHub](https://img.shields.io/github/stars/mhnaderi/Scientific-ML-Notes?color=yellowgreen&logo=github)](https://github.com/mhnaderi/Scientific-ML-Notes)
+[![GitHub](https://img.shields.io/github/stars/mhnaderi/Scientific-ML-Notes?color=yellowgreen&logo=github) ](https://github.com/mhnaderi/Scientific-ML-Notes)
 [![Twitter](https://img.shields.io/twitter/follow/m_h_naderi?style=social)](https://x.com/m_h_naderi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammad-hossein-naderi-80775095/)
 
